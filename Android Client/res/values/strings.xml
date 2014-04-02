@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, SSUI_Final_ProjectActivity!</string>
+    <string name="app_name">CoolStone</string>
+    <string name="debugtag">toolstone</string>
+</resources>
